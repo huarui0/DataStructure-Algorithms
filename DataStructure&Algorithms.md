@@ -5,6 +5,12 @@
     + C Lang
     + Java
     + Pthon
+  ### 1. linked lists
+  * 定义
+    + C Lang
+    + Java
+    + Pthon
+
 # Algorithms
 ## Algorithms Type
   ### 1. Binary search
