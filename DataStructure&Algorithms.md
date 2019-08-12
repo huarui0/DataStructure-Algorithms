@@ -1,5 +1,10 @@
 # DataStructure
-
+## Data Structure Type
+  ### 1. Arrays
+  * 定义
+    + C Lang
+    + Java
+    + Pthon
 # Algorithms
 ## Algorithms Type
   ### 1. Binary search
