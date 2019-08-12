@@ -1,7 +1,9 @@
 # DataStructure
 
 # Algorithms
-## Code Sample
-### C Lang
-### Java
-### Pthon
+## Algorithms Type
+  ### 1. Binary search
+     * Code Sample
+       + C Lang
+       + Java
+       + Pthon
