@@ -5,7 +5,7 @@
     + C Lang
     + Java
     + Pthon
-  ### 1. linked lists
+  ### 2. Linked Lists
   * 定义
     + C Lang
     + Java
