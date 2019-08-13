@@ -36,3 +36,12 @@
      + C Lang
      + Java
      + Pthon
+
+  ### 2. Amortized analysis -- 中文：
+  * 知识点
+     + 
+  * Code Sample
+     + C Lang
+     + Java
+     + Pthon
+ 
