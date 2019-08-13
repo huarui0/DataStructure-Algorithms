@@ -21,3 +21,10 @@
      + C Lang
      + Java
      + Pthon
+  ### 2. Greedy algorithms -- 中文：贪婪（贪心）算法
+  * 知识点
+     + 
+  * Code Sample
+     + C Lang
+     + Java
+     + Pthon
