@@ -28,3 +28,11 @@
      + C Lang
      + Java
      + Pthon
+
+  ### 2. Dynamic programming -- 中文：动态编程【program 有设计、规划程序，以实现某种功能的意思】，有翻译：动态规划，可以用，但偏离太多，意思偏离太多。
+  * 知识点
+     + 
+  * Code Sample
+     + C Lang
+     + Java
+     + Pthon
